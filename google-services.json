@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "722060003500",
+    "firebase_url": "https://xyz-p2.firebaseio.com",
+    "project_id": "xyz-p2",
+    "storage_bucket": "xyz-p2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722060003500:android:2413ba379183b4f75e3709",
+        "android_client_info": {
+          "package_name": "com.example.p2_juliana_abumansur_xyz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722060003500-601ie5nqmdeo18qi4k335lj2e200tn5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcenlFsg6EZmD6TNXBYRCjWg7RczXJMiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722060003500-601ie5nqmdeo18qi4k335lj2e200tn5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
