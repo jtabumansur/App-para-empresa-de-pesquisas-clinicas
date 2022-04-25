@@ -1,5 +1,6 @@
 # p2_juliana_abumansur_xyz
 
+Aplicativo simples desenvolvido para o curso de programacao para dispositivos moveis da FATEC
 A new Flutter project.
 
 ## Getting Started
